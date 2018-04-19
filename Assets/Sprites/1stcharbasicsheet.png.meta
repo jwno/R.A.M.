@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: d40c5df1c080af84d9ecd0bdbd27371d
+timeCreated: 1508978179
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1stcharbasicsheet_0
+    21300002: 1stcharbasicsheet_1
+    21300004: 1stcharbasicsheet_2
+    21300006: 1stcharbasicsheet_3
+    21300008: 1stcharbasicsheet_4
+    21300010: 1stcharbasicsheet_5
+    21300012: 1stcharbasicsheet_6
+    21300014: 1stcharbasicsheet_7
+    21300016: 1stcharbasicsheet_8
+    21300018: 1stcharbasicsheet_9
+    21300020: 1stcharbasicsheet_10
+    21300022: 1stcharbasicsheet_11
+    21300024: 1stcharbasicsheet_12
+    21300026: 1stcharbasicsheet_13
+    21300028: 1stcharbasicsheet_14
+    21300030: 1stcharbasicsheet_15
+    21300032: 1stcharbasicsheet_16
+    21300034: 1stcharbasicsheet_17
+    21300036: 1stcharbasicsheet_18
+    21300038: 1stcharbasicsheet_19
+    21300040: 1stcharbasicsheet_20
+    21300042: 1stcharbasicsheet_21
+    21300044: 1stcharbasicsheet_22
+    21300046: 1stcharbasicsheet_23
+    21300048: 1stcharbasicsheet_24
+    21300050: 1stcharbasicsheet_25
+    21300052: 1stcharbasicsheet_26
+    21300054: 1stcharbasicsheet_27
+    21300056: 1stcharbasicsheet_28
+    21300058: 1stcharbasicsheet_29
+    21300060: 1stcharbasicsheet_30
+    21300062: 1stcharbasicsheet_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 630
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 630
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 630
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 504
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 504
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 462
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 462
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 462
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 462
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 460
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 327
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 327
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 327
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 325
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 325
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 274
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 274
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 272
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 274
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 162
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 158
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 158
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 42
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 38
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1stcharbasicsheet_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 38
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
